@@ -4,4 +4,4 @@ This project analyzes data from on-line dating application OKCupid. In recent ye
 
 The goal of this project is to scope, prep, analyze, and create a machine-learning model to solve a question.
 
-### To check the full project please visit the file attached to this repository called OKCupid_Project
+### To check the full project please visit the file attached to this repository called OKCupid_Project.ipynb
